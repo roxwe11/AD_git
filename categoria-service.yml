@@ -1,1 +1,3 @@
-
+server:
+  port: ${PORT:8866}
+message: Configuracion de local en el servidor levantado!
