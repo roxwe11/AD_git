@@ -1,1 +1,3 @@
-
+server:
+  port: ${PORT:8864}
+message: Configuracion de cajero en el servidor levantado!
